@@ -1,0 +1,520 @@
+Uri: https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduPowerExtraBoldA.woff
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\gh\projectnoonnu\noonfonts_2201-2@1.0\GangwonEduPowerExtraBoldA.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css?family=Noto Sans KR:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/notosanskr/v36/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzg01SLPg9A.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\notosanskr\v36\PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzg01SLPg9A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosanskr/v36/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzjQ1SLPg9A.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\notosanskr\v36\PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzjQ1SLPg9A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosanskr/v36/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzkM1SLPg9A.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\notosanskr\v36\PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzkM1SLPg9A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosanskr/v36/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzmo1SLPg9A.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\notosanskr\v36\PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzmo1SLPg9A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosanskr/v36/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzmoySLPg9A.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\notosanskr\v36\PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzmoySLPg9A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosanskr/v36/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzrQySLPg9A.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\notosanskr\v36\PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzrQySLPg9A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosanskr/v36/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzztgySLPg9A.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\notosanskr\v36\PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzztgySLPg9A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosanskr/v36/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzuoySLPg9A.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\notosanskr\v36\PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzuoySLPg9A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosanskr/v36/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzuozSLPg9A.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\notosanskr\v36\PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzuozSLPg9A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://secure.gravatar.com/avatar/2b69799c89ae0beb6390296566716207?s=100&d=mm&r=g
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\avatar\2b69799c89ae0beb6390296566716207-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/2b69799c89ae0beb6390296566716207?s=50&d=mm&r=g
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\avatar\2b69799c89ae0beb6390296566716207.png
+Content Type: image/jpeg
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-LGX6L5QMR8
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\gtag\js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\index.htm
+Content Type: text/html
+
+Uri: https://상어티켓.kr/블로그/
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\블로그\index.htm
+Content Type: text/html
+
+Uri: https://상어티켓.kr/2023/08/08/소액결제-정책-현금화-방법은/
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\2023\08\08\소액결제-정책-현금화-방법은\index.htm
+Content Type: text/html
+
+Uri: https://상어티켓.kr/2023/08/08/소액결제-정책-현금화-방법은/feed/
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\2023\08\08\소액결제-정책-현금화-방법은\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://상어티켓.kr/author/mancard/
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\author\mancard\index.htm
+Content Type: text/html
+
+Uri: https://상어티켓.kr/author/mancard/feed/
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\author\mancard\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://상어티켓.kr/category/uncategorized/
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://상어티켓.kr/category/uncategorized/feed/
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://상어티켓.kr/comments/feed/
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://상어티켓.kr/feed/
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.22.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.22.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.22.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.22.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.22.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.22.1
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.22.1
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.22.1
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.22.1
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.30.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.30.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.30.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.30.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.30.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.30.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.2.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.2.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.2.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.2.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.2.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.2.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.2.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit/modules/particles/assets/css/particles.css?ver=3.3.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit\modules\particles\assets\css\particles.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit/modules/particles/assets/js/ekit-particles.js?ver=3.3.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit\modules\particles\assets\js\ekit-particles.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit/modules/particles/assets/js/particles.min.js?ver=3.3.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit\modules\particles\assets\js\particles.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit/modules/sticky-content/assets/js/elementskit-sticky-content.js?ver=3.3.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit\modules\sticky-content\assets\js\elementskit-sticky-content.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit/widgets/init/assets/css/widget-styles-pro.css?ver=3.3.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit\widgets\init\assets\css\widget-styles-pro.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/plugins/elementskit/widgets/init/assets/js/elementor.js?ver=3.3.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\elementskit\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.16.5
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\plugins\wp-smushit\app\assets\js\smush-lazy-load.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/themes/generatepress/assets/css/components/comments.min.css?ver=3.4.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\themes\generatepress\assets\css\components\comments.min.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.4.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\themes\generatepress\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.4.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\themes\generatepress\assets\js\menu.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-content/themes/generatepress_child/style.css?ver=1690890119
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\themes\generatepress_child\style.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/상어티켓-소액결제-정책-현금화-방법-300x169.jpg
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\상어티켓-소액결제-정책-현금화-방법-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/상어티켓-소액결제-정책-현금화-방법.jpg
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\상어티켓-소액결제-정책-현금화-방법.jpg
+Content Type: image/jpeg
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/상어티켓-신용카드-현금화-후기-300x145.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\상어티켓-신용카드-현금화-후기-300x145.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/상어티켓-신용카드-현금화-후기.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\상어티켓-신용카드-현금화-후기.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/상어티켓-후기-현금화-300x145.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\상어티켓-후기-현금화-300x145.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/상어티켓-후기-현금화.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\상어티켓-후기-현금화.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/상어-상담사-300x229.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\상어-상담사-300x229.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/상어-상담사.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\상어-상담사.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/온라인-소액결제-현금화-후기-300x145.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\온라인-소액결제-현금화-후기-300x145.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/온라인-소액결제-현금화-후기.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\온라인-소액결제-현금화-후기.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/정보이용료-현금화-후기-300x145.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\정보이용료-현금화-후기-300x145.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/정보이용료-현금화-후기.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\정보이용료-현금화-후기.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/카드깡-현금화-후기-300x145.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\카드깡-현금화-후기-300x145.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/카드깡-현금화-후기.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\카드깡-현금화-후기.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/카드-현금-지급.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\카드-현금-지급.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/현금화-거래내역.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\현금화-거래내역.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/현금화-거래.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\현금화-거래.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/2023/08/badge-정식사업자-등록-상어.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\2023\08\badge-정식사업자-등록-상어.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-content/uploads/elementor/css/global.css?ver=1716413429
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/uploads/elementor/css/post-12.css?ver=1716413488
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\elementor\css\post-12.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/uploads/elementor/css/post-135.css?ver=1716413429
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\elementor\css\post-135.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/uploads/elementor/css/post-33.css?ver=1716413429
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\elementor\css\post-33.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/uploads/elementor/css/post-9.css?ver=1716413488
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-content/uploads/elementor/thumbs/신용카드-매입-아이콘-qajy1tpoaubdu9zc9wqgbrgfjmprcu6ii6k9z6ja30.png
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-content\uploads\elementor\thumbs\신용카드-매입-아이콘-qajy1tpoaubdu9zc9wqgbrgfjmprcu6ii6k9z6ja30.png
+Content Type: image/png
+
+Uri: https://상어티켓.kr/wp-includes/css/dist/block-library/style.min.css?ver=6.5.4
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://상어티켓.kr/wp-includes/js/comment-reply.min.js?ver=6.5.4
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://상어티켓.kr/wp-json/
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://상어티켓.kr/wp-json/oembed/1.0/embed?url=https:%2F%2Fxn--hg4bo4gwqj92d.kr%2F
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://상어티켓.kr/wp-json/oembed/1.0/embed?url=https:%2F%2Fxn--hg4bo4gwqj92d.kr%2F&format=xml
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://상어티켓.kr/wp-json/oembed/1.0/embed?url=https:%2F%2Fxn--hg4bo4gwqj92d.kr%2F2023%2F08%2F08%2F%25ec%2586%258c%25ec%2595%25a1%25ea%25b2%25b0%25ec%25a0%259c-%25ec%25a0%2595%25ec%25b1%2585-%25ed%2598%2584%25ea%25b8%2588%25ed%2599%2594-%25eb%25b0%25a9%25eb%25b2%2595%25ec%259d%2580%2F
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://상어티켓.kr/wp-json/oembed/1.0/embed?url=https:%2F%2Fxn--hg4bo4gwqj92d.kr%2F2023%2F08%2F08%2F%25ec%2586%258c%25ec%2595%25a1%25ea%25b2%25b0%25ec%25a0%259c-%25ec%25a0%2595%25ec%25b1%2585-%25ed%2598%2584%25ea%25b8%2588%25ed%2599%2594-%25eb%25b0%25a9%25eb%25b2%2595%25ec%259d%2580%2F&format=xml
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://상어티켓.kr/wp-json/wp/v2/categories/1
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://상어티켓.kr/wp-json/wp/v2/pages/12
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://상어티켓.kr/wp-json/wp/v2/posts/299
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-json\wp\v2\posts\299
+Content Type: application/json
+
+Uri: https://상어티켓.kr/wp-json/wp/v2/users/2
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\wp-json\wp\v2\users\2
+Content Type: application/json
+
+Uri: https://상어티켓.kr/xmlrpc.php?rsd
+File Name: C:\Users\iroydphp\Desktop\WEB\상어티켓.kr\xmlrpc.php
+Content Type: text/xml
+
